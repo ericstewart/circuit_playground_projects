@@ -1,3 +1,9 @@
+#include <SPI.h>
+
+#include <Wire.h>
+#include <TinyWireM.h>
+#include <USI_TWI_Master.h>
+
 #include <Adafruit_CircuitPlayground.h>
 
 void setup() {
